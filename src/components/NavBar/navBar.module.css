@@ -1,0 +1,15 @@
+.nav{
+    grid-area: n;
+    background-color: rgb(66, 2, 2);
+}
+.item {
+    color: rgb(231, 182, 182);
+    text-decoration: none;
+}
+/* a{
+  color: blueviolet;
+} */
+.active{
+    color: aquamarine;
+    text-decoration: none;
+}
